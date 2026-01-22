@@ -37,6 +37,32 @@ kaggle kernels pull <username>/<kernel-slug> -m
 kaggle kernels push
 ```
 
+## 実行結果をClaude Codeと共有する方法
+
+### 方法1: Kaggle APIで出力ダウンロード（推奨）
+
+**前提**: notebookを **Save & Run All (Commit)** した後
+
+```bash
+kaggle kernels output <username>/<kernel-slug> -p ./output
+```
+
+出力されたログファイルを Claude Code が読み取って結果を確認できる。
+
+### 方法2: スクリーンショット
+
+スクリーンショットを撮ってパスを共有:
+```
+c:\Users\hikar\OneDrive\画像\Screenshots\スクリーンショット XXXX.png
+```
+
+### 方法3: 実行済みnotebookをpull
+
+Commit後、出力付きのnotebookをダウンロード:
+```bash
+kaggle kernels pull <username>/<kernel-slug>
+```
+
 ## ディレクトリ構造
 
 ```
