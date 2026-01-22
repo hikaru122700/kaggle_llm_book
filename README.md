@@ -4,6 +4,11 @@
 - [参考文献](references.md)・[正誤表](errata.md)・[プロフィール一覧](profiles.md)も掲載しています。
 - ご感想・ご質問は、issue にてお願いします。
 
+## 新着情報
+
+- 2026 年 1 月 22 日：電子版は 2 月に配信予定です。配信日が決まり次第、[講談社サイエンティフィクの X](https://x.com/kspub_kodansha) でお知らせします。
+- 2026 年 1 月 16 日：書籍が出版されました。
+
 ## サンプルコード
 
 3 章では、主催者の了承を得て Kaggle 上にアップロードした「atmaCup #17」の[データセット](https://www.kaggle.com/datasets/takaito/atmacup17)を利用します。
