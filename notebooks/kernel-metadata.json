@@ -1,0 +1,19 @@
+{
+  "id": "takaito/kaggle-llm-book-3-2-2025-09",
+  "id_no": 106220221,
+  "title": "[Kaggle LLM Book] 3.2: \u63a2\u7d22\u7684\u30c7\u30fc\u30bf\u89e3\u6790 2025-09",
+  "code_file": "kaggle-llm-book-3-2-2025-09.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "takaito/atmacup17"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
