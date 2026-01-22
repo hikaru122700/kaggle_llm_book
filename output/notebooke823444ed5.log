@@ -1,0 +1,49 @@
+[{"stream_name":"stderr","time":12.165748206,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":12.165834499,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":12.165843196,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":12.165848711,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":13.103613026,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":13.103689467,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":13.103707898,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":13.103713556,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":19.153533251,"data":"train\u0026test: Clothing ID\n"}
+,{"stream_name":"stdout","time":19.153631316,"data":"train\u0026test: Age\n"}
+,{"stream_name":"stdout","time":19.153638801,"data":"train\u0026test: Title\n"}
+,{"stream_name":"stdout","time":19.153643254,"data":"train\u0026test: Review Text\n"}
+,{"stream_name":"stdout","time":19.153647917,"data":"train only: Rating\n"}
+,{"stream_name":"stdout","time":19.153653069,"data":"train only: Recommended IND\n"}
+,{"stream_name":"stdout","time":19.153657312,"data":"train\u0026test: Positive Feedback Count\n"}
+,{"stream_name":"stdout","time":19.153661604,"data":"train\u0026test: Division Name\n"}
+,{"stream_name":"stdout","time":19.153665329,"data":"train\u0026test: Department Name\n"}
+,{"stream_name":"stdout","time":19.153669394,"data":"train\u0026test: Class Name\n"}
+,{"stream_name":"stdout","time":21.480470886,"data":"train:  [ 0  1  2  4  7  8  9 10 11 12]\n"}
+,{"stream_name":"stdout","time":21.480537041,"data":"valid:  [ 3  5  6 18 20 22 24 28 31 32]\n"}
+,{"stream_name":"stdout","time":21.480544669,"data":"{1: np.int64(2734), 0: np.int64(600)}\n"}
+,{"stream_name":"stdout","time":21.480548889,"data":"train:  [ 0  1  3  5  6  7  9 10 12 14]\n"}
+,{"stream_name":"stdout","time":21.480553669,"data":"valid:  [ 2  4  8 11 13 19 25 26 27 29]\n"}
+,{"stream_name":"stdout","time":21.480557747,"data":"{1: np.int64(2734), 0: np.int64(599)}\n"}
+,{"stream_name":"stdout","time":21.480561747,"data":"train:  [ 2  3  4  5  6  8 11 13 18 19]\n"}
+,{"stream_name":"stdout","time":21.480565602,"data":"valid:  [ 0  1  7  9 10 12 14 15 16 17]\n"}
+,{"stream_name":"stdout","time":21.480569717,"data":"{1: np.int64(2734), 0: np.int64(599)}\n"}
+,{"stream_name":"stderr","time":25.217985108,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":25.218037951,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":25.429317925,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":25.429374607,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":26.277918491,"data":"/usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":26.278008476,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":26.329057255,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":26.738592086,"data":"[NbConvertApp] Writing 201146 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":30.063007674,"data":"/usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":30.063094288,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":30.096888717,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":31.278825642,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":31.278867506,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.279310055,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.279688306,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283206476,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283238373,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283244068,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283249343,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283253579,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.283257737,"data":"[NbConvertApp] Writing 302513 bytes to __results__.html\n"}
+]

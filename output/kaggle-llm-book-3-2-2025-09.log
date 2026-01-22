@@ -1,0 +1,45 @@
+[{"stream_name":"stderr","time":8.334951648,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.335038712,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.335047457,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.335052086,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.306271526,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.306336242,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.306346293,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.306354538,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":16.573904417,"data":"train\u0026test: Clothing ID\n"}
+,{"stream_name":"stdout","time":16.573967915,"data":"train\u0026test: Age\n"}
+,{"stream_name":"stdout","time":16.573973581,"data":"train\u0026test: Title\n"}
+,{"stream_name":"stdout","time":16.573977371,"data":"train\u0026test: Review Text\n"}
+,{"stream_name":"stdout","time":16.573981357,"data":"train only: Rating\n"}
+,{"stream_name":"stdout","time":16.57398515,"data":"train only: Recommended IND\n"}
+,{"stream_name":"stdout","time":16.573989037,"data":"train\u0026test: Positive Feedback Count\n"}
+,{"stream_name":"stdout","time":16.573992814,"data":"train\u0026test: Division Name\n"}
+,{"stream_name":"stdout","time":16.573997992,"data":"train\u0026test: Department Name\n"}
+,{"stream_name":"stdout","time":16.574004194,"data":"train\u0026test: Class Name\n"}
+,{"stream_name":"stdout","time":18.846628943,"data":"train:  [ 0  1  2  4  7  8  9 10 11 12]\n"}
+,{"stream_name":"stdout","time":18.84667463,"data":"valid:  [ 3  5  6 18 20 22 24 28 31 32]\n"}
+,{"stream_name":"stdout","time":18.846683786,"data":"{1: 2734, 0: 600}\n"}
+,{"stream_name":"stdout","time":18.846690806,"data":"train:  [ 0  1  3  5  6  7  9 10 12 14]\n"}
+,{"stream_name":"stdout","time":18.846696946,"data":"valid:  [ 2  4  8 11 13 19 25 26 27 29]\n"}
+,{"stream_name":"stdout","time":18.846702007,"data":"{1: 2734, 0: 599}\n"}
+,{"stream_name":"stdout","time":18.846707115,"data":"train:  [ 2  3  4  5  6  8 11 13 18 19]\n"}
+,{"stream_name":"stdout","time":18.846711933999998,"data":"valid:  [ 0  1  7  9 10 12 14 15 16 17]\n"}
+,{"stream_name":"stdout","time":18.846717073,"data":"{1: 2734, 0: 599}\n"}
+,{"stream_name":"stderr","time":22.019886582,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":22.019961404,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":22.06222497,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":22.484747503,"data":"[NbConvertApp] Writing 201071 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":24.113908809,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":24.113984426,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":24.145946352,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":25.063709238,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":25.063759038,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.064057172,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.064284292,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.064472236,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.064649684,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.064814876,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.065000558,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.065193592,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.065444453,"data":"[NbConvertApp] Writing 302417 bytes to __results__.html\n"}
+]
